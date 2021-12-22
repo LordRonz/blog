@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Go-Blog
+title: Blog
 description: My personal blog built with fastpages.
 github_username: LordRonz
 # you can comment the below line out if your repo name is not different than your baseurl
